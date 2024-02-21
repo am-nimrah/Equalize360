@@ -50,7 +50,7 @@ Through the analysis of the Gender Equality Index dataset, we have gained valuab
 
 ## Contributors
 
-- Nimra
+- Nimra Waqar
 - Sofia
 
 ## Data Source
