@@ -3,6 +3,9 @@
 ## Dataset Overview
 This repository contains the analysis of the Gender Equality Index dataset sourced from the European Union Open Data Portal. The dataset provides insights into various aspects of gender equality across different countries and regions. Each entry in the dataset includes information on participation rates, economic opportunities, access to resources, and other indicators related to gender equality.
 
+## How to Run this code
+Upload the dataset given in the Colab contents and copy its path abd paste in the fisrt code cell of the notebook. 
+
 ## Analysis Results
 ### Algorithms Used:
 - **Linear Regression:**
